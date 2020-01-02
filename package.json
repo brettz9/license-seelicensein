@@ -1,0 +1,19 @@
+{
+  "name": "license-seelicensein",
+  "version": "0.1.0",
+  "description": "Just a test repo with a \"SEE LICENSE IN ...\" license in `package.json`.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brettz9/license-seelicensein.git"
+  },
+  "author": "Brett Zamir <brettz9@yahoo.com> (http://brett-zamir.me/)",
+  "license": "SEE LICENSE IN README.md",
+  "bugs": {
+    "url": "https://github.com/brettz9/license-seelicensein/issues"
+  },
+  "homepage": "https://github.com/brettz9/license-seelicensein#readme"
+}
