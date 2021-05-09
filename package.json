@@ -1,5 +1,5 @@
 {
-  "name": "license-seelicensein",
+  "name": "@brettz9/license-seelicensein",
   "version": "0.1.0",
   "description": "Just a test repo with a \"SEE LICENSE IN ...\" license in `package.json`.",
   "main": "index.js",
